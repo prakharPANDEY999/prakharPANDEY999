@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prakharPANDEY999
+- 👋 Hi, I’m Prakhar
 - 👀 I’m interested in back-end development
 - 🌱 I’m currently learning DSA and back-end development
 - 💞️ I’m looking to collaborate on any good open source project or any good opportunity.
